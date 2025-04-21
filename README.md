@@ -22,9 +22,10 @@
 
 ## 📷 Screenshot
 
-| Splash Screen | Halaman Utama | Notifikasi |
+| Splash Screen | Welcome Screen | Home Screen |
 |---------------|----------------|-------------|
-| (upload link) | (upload link) | (upload link) |
+| ![splash]( https://github.com/hdrzk/Aplikasi-AquaTrack/blob/main/SS%20APK/LOAD.png?raw=true) | !Welcome([upload link](https://github.com/hdrzk/Aplikasi-AquaTrack/blob/main/SS%20APK/WELCOME.png?raw=true
+)) | !Home([upload link](https://github.com/hdrzk/Aplikasi-AquaTrack/blob/main/SS%20APK/MAIN.png?raw=true)) |
 
 
 
