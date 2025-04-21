@@ -1,0 +1,97 @@
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/main"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#E3F2FD"
+    tools:context=".MainActivity">
+
+
+    <!-- Wave kiri atas -->
+    <ImageView
+        android:id="@+id/waveTopLeft"
+        android:layout_width="400dp"
+        android:layout_height="650dp"
+        android:src="@drawable/wave_top_left"
+        android:scaleType="fitXY"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintStart_toStartOf="parent" />
+
+    <!-- Wave kanan bawah -->
+    <ImageView
+        android:id="@+id/waveBottomRight"
+        android:layout_width="400dp"
+        android:layout_height="650dp"
+        android:src="@drawable/wave_bottom_right"
+        android:scaleType="fitXY"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent" />
+
+    <!-- Kotak tengah -->
+    <LinearLayout
+        android:id="@+id/centerCard"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:background="@drawable/center_card_bg"
+        android:padding="24dp"
+        android:layout_margin="32dp"
+        android:elevation="4dp"
+        android:gravity="center"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintEnd_toEndOf="parent">
+
+        <TextView
+            android:id="@+id/tvTitle"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="AquaTrack - Drink Your Water"
+            android:textSize="20sp"
+            android:textStyle="bold"
+            android:textColor="#FFFFFF"
+            android:layout_marginBottom="20dp" />
+
+        <EditText
+            android:id="@+id/etName"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:hint="Masukkan Nama Anda"
+            android:textColorHint="#B0BEC5"
+            android:inputType="textPersonName"
+            android:textColor="#FFF"
+            android:backgroundTint="#0D47A1"
+            android:padding="12dp"
+            android:layout_marginBottom="16dp" />
+
+        <TextView
+            android:id="@+id/tvSelectedTime"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Waktu Belum Dipilih"
+            android:textColor="#FFF"
+            android:layout_marginBottom="16dp" />
+
+        <Button
+            android:id="@+id/btnPickTime"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Pilih Waktu"
+            android:textAllCaps="false"
+            android:layout_marginBottom="16dp"
+            android:backgroundTint="#0D47A1"
+            android:textColor="#FFF" />
+
+        <Button
+            android:id="@+id/btnSave"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Simpan Pengingat"
+            android:textAllCaps="false"
+            android:backgroundTint="#1976D2"
+            android:textColor="#FFF" />
+    </LinearLayout>
+
+</androidx.constraintlayout.widget.ConstraintLayout>

@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">AquaTrack</string>
+    <string name="start_button">Mulai</string>
+    <string name="logo_desc">Logo Aplikasi AquaTrack</string>
+</resources>
