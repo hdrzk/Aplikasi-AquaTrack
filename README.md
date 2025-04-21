@@ -24,8 +24,7 @@
 
 | Splash Screen | Welcome Screen | Home Screen |
 |---------------|----------------|-------------|
-| ![splash]( https://github.com/hdrzk/Aplikasi-AquaTrack/blob/main/SS%20APK/LOAD.png?raw=true) | !Welcome([upload link](https://github.com/hdrzk/Aplikasi-AquaTrack/blob/main/SS%20APK/WELCOME.png?raw=true
-)) | !Home([upload link](https://github.com/hdrzk/Aplikasi-AquaTrack/blob/main/SS%20APK/MAIN.png?raw=true)) |
+| ![splash]( https://github.com/hdrzk/Aplikasi-AquaTrack/blob/main/SS%20APK/LOAD.png?raw=true) | ![Welcome](https://github.com/hdrzk/Aplikasi-AquaTrack/blob/main/SS%20APK/WELCOME.png?raw=true) | ![Home](https://github.com/hdrzk/Aplikasi-AquaTrack/blob/main/SS%20APK/MAIN.png?raw=true) |
 
 
 
