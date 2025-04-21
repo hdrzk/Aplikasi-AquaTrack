@@ -31,9 +31,9 @@
 ## ✨ Tentang Developer
 Aplikasi ini dibuat dengan ❤ oleh HaidirZackyy sebagai latihan dan pengembangan aplikasi kesehatan berbasis Android.
 
-## 🔧 Instalasi
+## 🔧 Try it!
 
-1. Clone repository:
+Clone repository:
 
 ```bash
 git clone https://github.com/username/AquaTrack.git
