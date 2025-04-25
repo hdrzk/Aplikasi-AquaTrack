@@ -1,9 +1,14 @@
 # 📱 Aplikasi Android AquaTrack 
+![Made with Kotlin](https://img.shields.io/badge/Made%20with-Kotlin-7F52FF.svg?style=for-the-badge&logo=kotlin)
+![Built in Android Studio](https://img.shields.io/badge/Built%20in-Android%20Studio-3DDC84?style=for-the-badge&logo=androidstudio)
+
+---
 
 # 💧 AquaTrack
 
 🎯 **AquaTrack** adalah aplikasi mobile berbasis Android yang dirancang untuk membantu pengguna mengingatkan konsumsi air harian mereka agar tetap terhidrasi dengan baik.
 
+---
 
 ## 📱 Fitur Unggulan
 
@@ -11,6 +16,7 @@
 - 🔔 **Notifikasi Pengingat Minum**: Notifikasi otomatis yang akan mengingatkan kamu untuk minum air secara rutin.
 - ⏰ **Pemilihan Waktu Pengingat**: Atur sendiri kapan kamu ingin diingatkan untuk minum air sesuai kebutuhanmu.
 
+---
 
 ## 🚀 Teknologi yang Digunakan
 
@@ -18,7 +24,7 @@
 - Android SDK
 - Notifikasi Lokal Android
 
-  
+---  
 
 ## 📷 Screenshot
 
@@ -225,8 +231,12 @@ btnSave.setOnClickListener {
 Validasi input nama dan waktu.
 Tampilkan pesan motivasi melalui Toast.
 
+---
+
 ## ✨ Tentang Developer
 Aplikasi ini dibuat dengan ❤ oleh HaidirZackyy sebagai latihan dan pengembangan aplikasi kesehatan berbasis Android.
+
+---
 
 ## 🔧 Try it!
 
