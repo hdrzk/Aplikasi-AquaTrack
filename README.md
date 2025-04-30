@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="banner(2).png" alt="LockForce Banner" width="100%">
+</p>
+
 # 📱 Aplikasi Android AquaTrack 
 ![Made with Kotlin](https://img.shields.io/badge/Made%20with-Kotlin-7F52FF.svg?style=for-the-badge&logo=kotlin)
 ![Built in Android Studio](https://img.shields.io/badge/Built%20in-Android%20Studio-3DDC84?style=for-the-badge&logo=androidstudio)
