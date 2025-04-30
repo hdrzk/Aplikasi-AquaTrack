@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="banner(2).png" alt="LockForce Banner" width="100%">
+  <img src="banner(2).png" alt="AquaTrack Banner" width="100%">
 </p>
 
 # 📱 Aplikasi Android AquaTrack 
